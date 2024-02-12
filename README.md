@@ -1,1 +1,2 @@
-DashBorad on a Insurance Claim.
+- Insurance Claim.
+-The system is designed to manage and process insurance claims efficiently.
